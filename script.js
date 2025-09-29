@@ -5,7 +5,7 @@ let sec = document.getElementById("sec");
 
 // function 
 function clock() {
-    // getting hours, minutes, seconds from date
+    // getting hours, minutes, seconds from date 
     let date = new Date();
     let h = date.getHours();
     let m = date.getMinutes();
